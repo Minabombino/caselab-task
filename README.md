@@ -41,9 +41,9 @@ C - Controller (Контроллер) — обработчик запросов
 - [ ] **Склонировать проект**
 	1. Зайди на GitHub в репозиторий
 	2. Нажми кнопку **Fork** (справа сверху)
-		![[fork.png]]
+		![](includes/fork.png)
 	3. У тебя появится копия: `твой-логин/book-catalog`
-		![[fork-result.png]]
+		![](includes/fork-result.png)
 - [ ] **Создай ветку со своей фамилией**
 	Например: `feature/golgan-task`
 
@@ -52,10 +52,10 @@ C - Controller (Контроллер) — обработчик запросов
 	*\*Можно и на английском*
 
 - [ ] **Отправь в свой форк**
-	![[fork-send.png]]
+	![](includes/fork-send.png)
 
 	**Проверь, что ты отправляешь свою ветку!**
-	![[fork-send-2.png]]
+	![](includes/fork-send-2.png)
 
 
 ---
